@@ -1,6 +1,6 @@
 # Local Codeshare
 
-A simple **local network code sharing tool** built with **Flask + Monaco Editor**.
+A simple & lightweight **local network code sharing tool** built with **Flask**.
 Paste code on one device, open the same URL on another (same WiFi), and share instantly.
 
 ---
