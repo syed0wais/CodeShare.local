@@ -9,7 +9,7 @@ Paste code on one device, open the same URL on another (same WiFi), and share in
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/local-codeshare.git](https://github.com/yourusername/local-codeshare.git)
+    git clone [https://github.com/syed0wais/CodeShare.local/](https://github.com/syed0wais/CodeShare.local/)
     cd local-codeshare
     ```
 
